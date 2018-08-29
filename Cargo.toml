@@ -1,0 +1,8 @@
+[package]
+name = "webpki-parser"
+version = "0.1.0"
+authors = ["Kmoneal <kmacjoneal@gmail.com>"]
+
+[dependencies]
+webpki = { path = "/home/kenan/webpki" }
+untrusted = "0.6.2" 
